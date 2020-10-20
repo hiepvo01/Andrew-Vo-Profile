@@ -1,0 +1,124 @@
+BasicInfo:
+  FirstName: Andrew
+  LastName: Vo
+  Photo: img/me.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +1 563 424 6517
+    - Icon: fas fa-envelope
+      Info: vohi01@luther.edu
+    - Icon: fas fa-globe
+      Info: andrew-vo.com
+    - Icon: fas fa-map-marker-alt
+      Info: Decorah, Iowa
+
+Profile: Blends academic training in Data Analyst and Economics with hands-on experience in Software Engineer to offer new applications with APIs as well as data analyst for making policy decisions faster and more efficient. Known for providing fun and productive team-building environments in a variety of team projects and multiple STEM fields settings.
+
+Education:
+  - Course: BAs in Data Science, Minors in Computer Science and Statistics
+    Place: Luther College
+    GPA: GPA 3.35
+    Date: Sep 2017 - May 2021
+    Details: Specialised in Data Analysis
+
+Experience:
+  - Employer: Luther College
+    Place: Decorah, Iowa, US
+    Positions:
+      - Title: Data Science Preceptor 
+        Date: October 2020 - Present
+        Details:
+          - Collaborate with professor to construct tests, prepare materials, and grade assignments in DS120 (Introduction to Data Science course)
+          - Work with students one-on-one to help them with in-class problems and homework questions
+        Badges: ['Excel', 'Mentorship', 'Data Processing']
+      - Title: Math Tutor
+        Date: September 2019 -Present
+        Details:
+          - Mentor students’ studying habits and note taking skills
+          - Set up test exams and sample exercises related to course work
+          - Explain math concepts using visualization such as graphs and possible application
+        Badges: ['Statistics', 'Visualization', 'Mentorship']
+  - Employer: Texas Tech University
+    Place: Lubbock, Texas
+    Positions:
+      - Title: Data Analyst and Visualization Internship
+        Date: June 2020 - August 2020
+        Details:
+          - Learned and apply new data visualization tools such as Vue.JS and Three.JS
+          - Worked closely with Assistant Professors and PHD students on group projects and researches in new Data Analytics tools and machine learning models
+          - Participated in Data Analyst coding contests such as Vast 2020 and Scivis 2020
+        Badges: ['Python', 'ThreeJS', 'D3', 'Angular', 'Data Processing', 'Data Visualization']
+  - Employer: SSI Asset Management Company Limited
+    Place: Hanoi, Vietnam
+    Positions:
+      - Title: Data Entry Assistant
+        Date: January 2020 - January 2020
+        Details:
+          - Get familiar with Bloomberg software and Bloomberg excel add-in for market, index data entry
+          - Write trial programs using pandas to predict market price after acquiring data from Bloomberg
+          - Set up Microsoft and debug programs for IT support
+        Badges: ['Python', 'Excel', 'Data Processing', 'Bloomberg']
+  - Employer: Elsa Corp
+    Place: Lisbon, Portugal
+    Positions:
+      - Title: Software Engineer Internship
+        Date: July 2019 - August 2019
+        Details:
+          - Innovated ways to encourage customers’ usage of ELSA language proficiency app through colloquial interactive language instead of repeated sentences
+          - Developed front-end and back-end servers with VueJS and Flask, Starlette
+          - Utilized Dialogflow API’s voice recognition and bot response for app development
+          - Cooperated with another intern for code cleaning and further accelerating the project
+        Badges: ['Python', 'Dialogflow', 'Vue.JS', 'Flask', 'Starlette', 'API']
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - Java
+      - HTML
+      - Javascript
+      - CSS
+      - SQL
+  - Family: Frameworks
+    Items:
+      - MySQL, SQLite
+      - Flask
+      - Vue.JS
+      - Angular
+      - Hugo
+
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - TensorFlow
+
+  - Family: Misc
+    Items:
+      - Microsof Office
+      - LaTeX
+      - Visual Studio Code
+
+Languages:
+  - Name: Vietnamese
+    Level: Native
+  - Name: English
+    Level: Fluent
+
+Publications:
+  - Red Sea Eddies Visualization for the Web (IEEE 2020)
+
+Certificates:
+  - Building and Deploying Deep Learning Applications with TensorFlow (Linkedin 2020)
+  - Learning 3D Graphics on the Web with Three.js (Linkedin 2020)
+  - Angular Essential Training (Linkedin 2020)
+  - D3.js Essential Training for Data Scientists (Linkedin 2020)
+  - Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training (Linkedin 2020)
+
+Interests:
+  - Soccer
+  - Cooking
+  - Web-based applications
+  - Anime 
+  - Japanese Music
+  - Camping

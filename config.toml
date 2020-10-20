@@ -1,0 +1,14 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+theme = "resume"
+title = "Andrew-Vo Resume"
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#FDF2E9"
+colorPrimary = "#00b3ca"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#D0ECE7"
+colorSecondary = "#aaa"
+pages = 1
