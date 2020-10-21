@@ -9,6 +9,7 @@ before script:
 script:
 - aws s3 sync public/ s3://andrew-vo.com --acl public-read --delete
 - aws cloudfront create-invalidation --distribution-id EUCBD3R9O58UM  --paths '/*'
+- aws ecs list-container-instances --cluster default --region us-east-1
 - aws acm request-certificate --domain-name www.andrew-vo.com --validation-method DNS --options CertificateTransparencyLoggingPreference=DISABLED
 branches:
   only:
