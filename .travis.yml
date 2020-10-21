@@ -9,6 +9,7 @@ before script:
 script:
 - aws s3 sync public/ s3://andrew-vo.com --acl public-read --delete
 - aws cloudfront create-invalidation --distribution-id EUCBD3R9O58UM  --paths '/*'
+- aws acm request-certificate --domain-name www.example.com --validation-method DNS --idempotency-token 1234 --options CertificateTransparencyLoggingPreference=DISABLED
 branches:
   only:
   - master 
